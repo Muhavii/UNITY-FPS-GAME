@@ -52,7 +52,7 @@ The project references several Unity packages and custom scripts, including:
 - `Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj`
 - `Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj`
 
-![gamescene screenshot](blob/main/gamescene.png)
+![gamescene screenshot](gamescene.png)
 
 ## Contributing
 
