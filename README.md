@@ -1,6 +1,9 @@
 # UNITY-FPS-GAME
 this is my fps game made from scratch using C# in unity hub. This project includes various assets, scripts, and configurations to create an immersive FPS experience.
 
+## ATTENTION ALL GAME DEVS ! LET'S COLLABORATE
+if you wish to collaborate on a game dev project or have any questions please do reach out via my email on my profile.
+
 
 ## Getting Started
 
